@@ -16,7 +16,7 @@ QA Engineer em aprofundando-se em Data Engineering, construindo pipelines de dad
 
 ### 🛠️ Stack
 
-`PySpark` `Databricks` `Delta Lake` `SQL` `Python` `Apache Airflow` `dbt` `AWS` `Docker` `Git`
+`PySpark` `Databricks` `Delta Lake` `SQL` `Python` `Apache Airflow` `AWS` `Docker` `Git`
 
 ### 📌 Projeto em destaque
 
@@ -46,7 +46,7 @@ QA Engineer transitioning into Data Engineering, building data pipelines with a 
 
 ### 🛠️ Stack
 
-`PySpark` `Databricks` `Delta Lake` `SQL` `Python` `Apache Airflow` `dbt` `AWS` `Docker` `Git`
+`PySpark` `Databricks` `Delta Lake` `SQL` `Python` `Apache Airflow` `AWS` `Docker` `Git`
 
 ### 📌 Featured project
 
